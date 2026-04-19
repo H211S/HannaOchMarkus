@@ -46,7 +46,7 @@ function Galleri() {
       </h2>
 
       <p className="text-center mb-12 text-neutral-500">
-        Tryck för att växla färg
+        Klicka på bilderna för att växla färg
       </p>
 
       <div className="overflow-x-auto pb-4 custom-scrollbar touch-pan-x">
