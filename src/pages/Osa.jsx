@@ -131,7 +131,7 @@ function Osa() {
       
 
             {/* Låtar */}
-            <p>Hjälp oss med spellistan! Önska en eller ett par låtar till kvällens dansgolv. Gärna inom genren rock, hårdrock eller metal.</p>
+            <p>Hjälp oss med spellistan! Önska en eller ett par låtar till kvällens dansgolv. Gärna inom genren rock, hårdrock eller metal men även annat som höjer stämningen går såklart bra!</p>
             <textarea
               name="songs1"
               placeholder="Vad måste spelas på dansgolvet?"
