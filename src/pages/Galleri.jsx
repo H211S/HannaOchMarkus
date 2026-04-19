@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import img2014 from "../assets/gallery/temp.jpg";
+import img2014 from "../assets/gallery/hm2014.jpg";
 import img2015 from "../assets/gallery/hm2015.jpg";
 import img2016 from "../assets/gallery/hm2016.jpg";
 import img2017 from "../assets/gallery/hm2017.jpg";
