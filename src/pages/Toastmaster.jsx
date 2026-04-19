@@ -28,6 +28,7 @@
         <p className="text-neutral-100">Petter Jonasson</p>
         <p className="text-sm text-neutral-300">petter@hlrsyd.nu</p>
         <p className="text-sm text-neutral-300">072-252 94 72</p>
+        <p></p>
       </div>
 
     </div>
