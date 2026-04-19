@@ -1,17 +1,17 @@
 import { useState } from "react";
 
-import img2014 from "../assets/gallery/HM2014.jpg";
-import img2015 from "../assets/gallery/HM2015.jpg";
-import img2016 from "../assets/gallery/HM2016.jpg";
-import img2017 from "../assets/gallery/HM2017.jpg";
-import img2018 from "../assets/gallery/HM2018.jpeg";
-import img2019 from "../assets/gallery/HM2019.jpg";
-import img2020 from "../assets/gallery/HM2020.jpg";
-import img2021 from "../assets/gallery/HM2021.jpg";
-import img2022 from "../assets/gallery/HM2022.jpeg";
-import img2023 from "../assets/gallery/HM2023.jpg";
-import img2024 from "../assets/gallery/HM2024.jpeg";
-import img2025 from "../assets/gallery/HM2025.jpeg";
+import img2014 from "../assets/gallery/2014.jpg";
+import img2015 from "../assets/gallery/2015.jpg";
+import img2016 from "../assets/gallery/2016.jpg";
+import img2017 from "../assets/gallery/2017.jpg";
+import img2018 from "../assets/gallery/2018.jpeg";
+import img2019 from "../assets/gallery/2019.jpg";
+import img2020 from "../assets/gallery/2020.jpg";
+import img2021 from "../assets/gallery/2021.jpg";
+import img2022 from "../assets/gallery/2022.jpeg";
+import img2023 from "../assets/gallery/2023.jpg";
+import img2024 from "../assets/gallery/2024.jpeg";
+import img2025 from "../assets/gallery/2025.jpeg";
 
 function Galleri() {
   const images = [
