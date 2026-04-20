@@ -40,7 +40,7 @@ function Countdown() {
         Kom och fira med oss om:
       </p>
 
-      <div className="flex justify-center gap-6 text-4xl  text-white">
+      <div className="flex justify-center gap-6 text-2xl md:text-4xl  text-white">
         <div>
           <span>{days}</span>
           <p className="text-sm text-neutral-400">Dagar</p>
