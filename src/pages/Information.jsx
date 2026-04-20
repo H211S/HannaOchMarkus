@@ -16,8 +16,8 @@
 
     {/* ITEM */}
     <div className="space-y-2">
-      <p className="font-serif text-lg tracking-wide text-neutral-100">
-        Klockslag
+      <p className="rubrik text-lg tracking-wide text-neutral-100">
+        Tider
       </p>
       <p className="text-neutral-300 leading-relaxed">
         Festen börjar kl. 16.00. Vi önskar att ni kommer i tid. <br></br> Dansgolvet är öppet till 00.00 och festen avslutas 01.00.
@@ -25,7 +25,7 @@
     </div>
 
     <div className="space-y-2">
-      <p className="font-serif text-lg tracking-wide text-neutral-100">
+      <p className="rubrik text-lg tracking-wide text-neutral-100">
         Plats
       </p>
       <p className="text-neutral-300 leading-relaxed">
@@ -35,7 +35,7 @@
     </div>
 
     <div className="space-y-2">
-      <p className="font-serif text-lg tracking-wide text-neutral-100">
+      <p className="rubrik text-lg tracking-wide text-neutral-100">
         Mat
       </p>
       <p className="text-neutral-300 leading-relaxed">
@@ -44,16 +44,18 @@
     </div>
 
     <div className="space-y-2">
-      <p className="font-serif text-lg tracking-wide text-neutral-100">
+      <p className="rubrik text-lg tracking-wide text-neutral-100">
         Dryck
       </p>
       <p className="text-neutral-300 leading-relaxed">
-        Vi bjuder på välkomstbubbel och dryck till maten. Efter desserten öppnar baren till självkostnadspris.
+        Vi inleder med välkomstbubbel och bjuder på dryck till middagen.
+Framåt kvällen öppnar baren, där dryck erbjuds till självkostnadspris.
+Självklart finns det alternativ både med och utan alkohol.
       </p>
     </div>
 
     <div className="space-y-2">
-      <p className="font-serif text-lg tracking-wide text-neutral-100">
+      <p className="rubrik text-lg tracking-wide text-neutral-100">
         Klädsel
       </p>
       <p className="text-neutral-300 leading-relaxed">
@@ -62,7 +64,7 @@
     </div>
 
     <div className="space-y-2">
-      <p className="font-serif text-lg tracking-wide text-neutral-100">
+      <p className="rubrik text-lg tracking-wide text-neutral-100">
         Barn
       </p>
       <p className="text-neutral-300 leading-relaxed">
@@ -71,7 +73,7 @@
     </div>
 
     <div className="space-y-2">
-      <p className="font-serif text-lg tracking-wide text-neutral-100">
+      <p className="rubrik text-lg tracking-wide text-neutral-100">
         Gåvor
       </p>
       <p className="text-neutral-300 leading-relaxed">
