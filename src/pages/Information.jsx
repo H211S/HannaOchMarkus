@@ -59,7 +59,7 @@ Självklart finns det alternativ både med och utan alkohol.
         Klädsel
       </p>
       <p className="text-neutral-300 leading-relaxed">
-        Vi har ingen speciell klädkod men önskar gärna att ni tar tillfället i akt och klär er festligt. 
+        Vi har ingen speciell klädkod men önskar gärna att ni tar tillfället i akt och klär upp er - det kommer vi att göra!
       </p>
     </div>
 
