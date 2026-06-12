@@ -57,7 +57,7 @@ function Osa() {
         className="flex flex-col gap-4 max-w-2xl w-full bg-neutral-800 p-8 rounded-xl shadow"
       >
         <h2 className="text-3xl font-serif text-center mb-2 text-white">OSA</h2>
-        <p className="text-center text-neutral-300 mb-6">Svara senast 29 augusti</p>
+        <p className="text-center text-neutral-300 mb-6">Svara senast 10 augusti</p>
 
         {/* Namn */}
         <input
