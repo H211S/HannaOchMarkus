@@ -39,7 +39,7 @@
         Mat
       </p>
       <p className="text-neutral-300 leading-relaxed">
-        Under kvällen bjuds på buffé och dessert.
+        Under kvällen bjuds det på buffé och dessert.
       </p>
     </div>
 
@@ -59,7 +59,7 @@ Självklart finns det alternativ både med och utan alkohol.
         Klädsel
       </p>
       <p className="text-neutral-300 leading-relaxed">
-        Vi har ingen speciell klädkod men önskar gärna att ni tar tillfället i akt och klär upp er - det kommer vi att göra!
+        Vi har ingen särskild klädkod men önskar gärna att ni tar tillfället i akt och klär upp er - det kommer vi att göra!
       </p>
     </div>
 
